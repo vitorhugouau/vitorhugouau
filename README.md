@@ -1,11 +1,5 @@
 # Olá, eu sou o Vitor Hugo 👋
 
-[![Website](https://img.shields.io/badge/website-vitorhugo.netlify.app-blue)](https://vitorhugo.netlify.app/)  
-[![GitHub followers](https://img.shields.io/github/followers/vitorhugouau?label=me%20segue%20lá&style=social)](https://github.com/vitorhugouau?tab=followers)  
-[![GitHub stars](https://img.shields.io/github/stars/vitorhugouau?style=social)](https://github.com/vitorhugouau?tab=stars)
-
----
-
 ## ​ Sobre mim
 
 Sou um apaixonado por desenvolvimento front-end e back-end, sempre explorando novas ideias para construir soluções elegantes e funcionais. Curto aprender e compartilhar conhecimento, seja com código aberto, artigos ou tutoriais.
