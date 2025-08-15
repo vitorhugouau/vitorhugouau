@@ -11,20 +11,6 @@ Sou um apaixonado por desenvolvimento front-end e back-end, sempre explorando no
 
 ---
 
-## ​ Projetos em destaque
-
-| Projeto | Tecnologia | Descrição |
-|--------|------------|-----------|
-| **[MANAGEABLE-LIBRARY](https://github.com/vitorhugouau/MANAGEABLE-LIBRARY)** | PHP | Biblioteca modular e organizada para manipulação de dados |
-| **[PORTIFOLIO](https://github.com/vitorhugouau/PORTIFOLIO)** | CSS | Portfólio pessoal responsivo, apresentando meus trabalhos |
-| **[PORTIFOLIO-DARK-MODE](https://github.com/vitorhugouau/PORTIFOLIO-DARK-MODE)** | CSS | Versão escura do portfólio, com design elegante |
-| **[BIBLIOTECA](https://github.com/vitorhugouau/BIBLIOTECA)** | CSS | Biblioteca de estilos reutilizáveis para projetos front-end |
-| **[laravel-mp-aws-db](https://github.com/vitorhugouau/laravel-mp-aws-db)** | Laravel, Blade | Integração entre Laravel e AWS para manipulação de banco de dados |
-
-Mais projetos em: https://github.com/vitorhugouau?tab=repositories
-
----
-
 ## ​​ Habilidades técnicas
 
 - **Linguagens & Frameworks:** PHP, Laravel, Blade, CSS
