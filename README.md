@@ -35,13 +35,6 @@ Sou um apaixonado por desenvolvimento front-end e back-end, sempre explorando no
 - 📚 Aprimoramento nas práticas de CI/CD e automação
 - 💼 Desenvolvimento de um sistema próprio para reforçar minhas habilidades back-end
 
----
-
-## ​ Como me encontrar
-
-[![Website](https://img.shields.io/badge/Web-JetBrains-netlify_included?logo=netlify)](https://vitorhugo.netlify.app/)
-
-
 
 *✨ Obrigado pela visita!*
 
