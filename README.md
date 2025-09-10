@@ -27,13 +27,23 @@ Sou um apaixonado por desenvolvimento front-end e back-end, sempre explorando no
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugouau&layout=compact&theme=radical" alt="Top linguagens">
 </p>
 
----
+### 🔥 Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorhugouau&theme=tokyonight" alt="streak" />
+</p>
 
-## ​ O que vem por aí
+### 🏆 Troféus
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vitorhugouau&theme=tokyonight&row=1&column=6" alt="trophy" />
+</p>
 
-- 🚧 Projetos integrando Laravel com APIs externas
-- 📚 Aprimoramento nas práticas de CI/CD e automação
-- 💼 Desenvolvimento de um sistema próprio para reforçar minhas habilidades back-end
+<p align="center">
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 
 *✨ Obrigado pela visita!*
