@@ -14,7 +14,7 @@ Sou um apaixonado por desenvolvimento front-end e back-end, sempre explorando no
 ## ​​ Habilidades técnicas
 
 - **Linguagens & Frameworks:** PHP, Laravel, Blade, CSS
-- **Front-end:** HTML semântico, layouts responsivos
+- **Front-end:** HTML, layouts responsivos
 - **Controle de versão:** Git, GitHub
 - **Outros:** Design modular, boas práticas de código, WP pronto para aprender mais
 
